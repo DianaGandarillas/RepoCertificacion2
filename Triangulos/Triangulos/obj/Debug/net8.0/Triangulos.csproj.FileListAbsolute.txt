@@ -1,0 +1,14 @@
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\bin\Debug\net8.0\Triangulos.exe
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\bin\Debug\net8.0\Triangulos.deps.json
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\bin\Debug\net8.0\Triangulos.runtimeconfig.json
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\bin\Debug\net8.0\Triangulos.dll
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\bin\Debug\net8.0\Triangulos.pdb
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\Debug\net8.0\Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\Debug\net8.0\Triangulos.AssemblyInfoInputs.cache
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\Debug\net8.0\Triangulos.AssemblyInfo.cs
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\Debug\net8.0\Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\Debug\net8.0\Triangulos.dll
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\Debug\net8.0\refint\Triangulos.dll
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\Debug\net8.0\Triangulos.pdb
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\Debug\net8.0\Triangulos.genruntimeconfig.cache
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\Debug\net8.0\ref\Triangulos.dll
