@@ -1,16 +1,12 @@
-﻿class Program
+﻿using System;
+
+class Program
 {
     static void Main()
     {
-        // Solicitar los lados del triángulo
-        Console.Write("INGRESE EL LADO A DEL TRIANGULO: ");
-        double ladoA = Convert.ToDouble(Console.ReadLine());
-
-        Console.Write("INGRESE EL LADO B DEL TRIANGULO: ");
-        double ladoB = Convert.ToDouble(Console.ReadLine());
-
-        Console.Write("INGRESE EL LADO C DEL TRIANGULO: ");
-        double ladoC = Convert.ToDouble(Console.ReadLine());
+        double ladoA = LeerLado("A");
+        double ladoB = LeerLado("B");
+        double ladoC = LeerLado("C");
 
         // Determinar el tipo de triángulo
         if (ladoA == ladoB && ladoB == ladoC)
@@ -21,13 +17,41 @@
         {
             Console.WriteLine("EL TRIANGULO ES ISOSCELES");
         }
-        else if (ladoA != ladoB || ladoA != ladoC || ladoB != ladoC)
+        else
         {
             Console.WriteLine("EL TRIANGULO ES ESCALENO");
         }
-        else
+    }
+
+    static double LeerLado(string nombreLado)
+    {
+        double lado;
+        bool esNumeroValido;
+
+        do
         {
-            Console.WriteLine("TRIANGULO NO ACEPTADO");
-        }
+            Console.Write($"INGRESE EL LADO {nombreLado} DEL TRIANGULO: ");
+            string input = Console.ReadLine();
+
+            // Verificar si es número
+            if (!double.TryParse(input, out lado))
+            {
+                Console.WriteLine("Por Favor Ingrese un número");
+                esNumeroValido = false;
+            }
+            // Verificar si es positivo
+            else if (lado <= 0)
+            {
+                Console.WriteLine("Por Favor ingrese un número positivo");
+                esNumeroValido = false;
+            }
+            else
+            {
+                esNumeroValido = true;
+            }
+
+        } while (!esNumeroValido);
+
+        return lado;
     }
 }

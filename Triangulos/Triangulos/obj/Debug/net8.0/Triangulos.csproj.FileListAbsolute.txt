@@ -12,3 +12,4 @@ C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\De
 C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\Debug\net8.0\Triangulos.pdb
 C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\Debug\net8.0\Triangulos.genruntimeconfig.cache
 C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\Debug\net8.0\ref\Triangulos.dll
+C:\Users\Diana\Documents\certificacion2\repositorio\Triangulos\Triangulos\obj\Debug\net8.0\Triangulos.sourcelink.json
